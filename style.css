@@ -37,7 +37,7 @@ html, body {
 .page1 h1{
   font-size: 30px;
 }
-.page1, .page2 h1, h6 {
+.page1, h1, h6, .page2 h1, h6 {
   animation: slideRight 1.5s ease-in-out alternate;
 }
 .page1 h6{
